@@ -5,7 +5,12 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Set up the Streamlit page
-st.set_page_config(page_title="Youth Unemployment Predictor", layout="centered")
+st.set_page_config(
+    page_title="Kenya Youth Unemployment Risk Predictor",
+    page_icon="📊",
+    layout="centered",
+    initial_sidebar_state="collapsed"
+)
 
 # --- Load models ---
 model_25 = joblib.load('quantile_model_25.pkl')
