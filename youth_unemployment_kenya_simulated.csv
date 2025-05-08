@@ -1,0 +1,501 @@
+Age,Gender,Education,Region,Income,Ajira_Digital,YEDF_Access,Unemployed
+21,Male,Primary,Nairobi,19436,1,0,1
+34,Female,Tertiary,Central,17897,1,0,0
+29,Male,Secondary,Coast,13703,0,0,0
+25,Female,Secondary,Coast,14091,1,0,0
+22,Female,Tertiary,Rift Valley,15307,1,0,0
+21,Female,Secondary,Rift Valley,13971,0,0,0
+33,Male,Secondary,Coast,21747,1,0,0
+25,Male,Secondary,Coast,30474,0,1,1
+25,Female,Tertiary,Coast,11098,1,1,0
+18,Male,Primary,Central,5411,0,0,0
+22,Female,Tertiary,Coast,14382,1,1,0
+17,Male,Secondary,Western,33058,0,0,0
+16,Female,Primary,Nairobi,9374,0,0,1
+26,Female,Secondary,Coast,26474,0,0,1
+20,Male,Secondary,Nairobi,26744,0,0,0
+16,Female,Secondary,Central,11125,0,0,0
+15,Male,Secondary,Nairobi,18983,0,0,1
+26,Female,Primary,Central,26399,0,0,1
+26,Female,Secondary,Western,12346,0,0,1
+31,Male,Tertiary,Central,13575,0,0,0
+24,Male,Secondary,Central,10928,1,0,1
+30,Male,Secondary,Rift Valley,7897,0,0,1
+29,Female,Secondary,Coast,10455,1,0,1
+29,Male,Secondary,Coast,6432,1,1,1
+33,Female,Secondary,Western,15239,0,1,0
+26,Female,Secondary,Western,9610,0,0,1
+34,Male,Primary,Coast,16637,1,1,0
+17,Male,Secondary,Rift Valley,4109,0,0,0
+19,Female,Primary,Coast,17316,0,1,0
+33,Female,Primary,Rift Valley,20835,0,0,0
+21,Male,Primary,Western,1044,1,0,1
+23,Male,Primary,Nairobi,17618,0,0,0
+21,Male,Secondary,Western,23594,0,0,0
+32,Male,Secondary,Western,6533,1,0,1
+18,Male,Secondary,Central,26708,1,0,1
+28,Female,Primary,Central,17933,0,0,0
+32,Female,Tertiary,Central,10065,0,0,0
+23,Female,Secondary,Central,14610,1,0,0
+16,Female,Secondary,Rift Valley,18908,0,1,0
+34,Male,Tertiary,Coast,15532,0,0,0
+29,Male,Tertiary,Nairobi,18771,0,0,0
+21,Male,Primary,Western,8555,1,0,1
+26,Female,Secondary,Rift Valley,16186,0,0,0
+22,Female,Tertiary,Nairobi,5104,1,0,0
+29,Male,Secondary,Rift Valley,14221,1,1,0
+17,Male,Primary,Rift Valley,8673,0,0,1
+28,Female,Secondary,Western,9851,0,0,1
+31,Female,Tertiary,Coast,23653,0,1,0
+18,Male,Secondary,Central,22639,0,0,0
+32,Male,Secondary,Coast,19264,0,0,0
+22,Female,Tertiary,Western,7354,1,0,1
+18,Male,Primary,Western,12785,0,0,0
+16,Male,Primary,Western,23492,1,0,0
+20,Male,Secondary,Nairobi,15992,0,0,0
+24,Female,Tertiary,Coast,31235,0,0,0
+18,Female,Secondary,Coast,17753,0,1,0
+32,Female,Secondary,Rift Valley,16344,0,0,0
+26,Female,Secondary,Rift Valley,12836,1,0,0
+16,Female,Secondary,Rift Valley,15935,0,0,1
+24,Female,Secondary,Western,13933,0,0,1
+18,Female,Tertiary,Coast,19957,0,0,0
+28,Male,Secondary,Western,21697,0,0,0
+30,Male,Secondary,Nairobi,9498,0,1,0
+29,Male,Secondary,Rift Valley,5681,0,0,1
+22,Male,Secondary,Western,2147,1,0,0
+28,Male,Secondary,Western,18556,0,0,0
+22,Male,Secondary,Nairobi,7276,1,0,0
+30,Male,Secondary,Central,0,0,0,1
+27,Female,Primary,Coast,17720,0,0,0
+32,Female,Primary,Central,32451,0,0,0
+29,Male,Secondary,Rift Valley,14958,0,0,0
+27,Male,Secondary,Western,20869,0,1,0
+23,Female,Secondary,Nairobi,15573,0,1,1
+29,Male,Secondary,Nairobi,14308,0,0,0
+27,Male,Secondary,Coast,21434,0,1,0
+15,Female,Primary,Central,12968,0,0,1
+21,Male,Tertiary,Coast,16872,1,1,0
+23,Female,Secondary,Western,17252,0,0,0
+15,Male,Secondary,Coast,10323,0,1,0
+26,Female,Secondary,Nairobi,21944,0,1,0
+22,Female,Tertiary,Nairobi,13775,0,0,0
+25,Female,Secondary,Rift Valley,9710,0,1,0
+33,Male,Secondary,Rift Valley,18756,0,0,0
+31,Female,Secondary,Western,8711,0,0,1
+22,Male,Primary,Central,15197,0,0,1
+17,Male,Primary,Coast,14936,0,0,0
+17,Male,Secondary,Western,22601,0,0,0
+15,Male,Secondary,Rift Valley,18323,0,0,1
+19,Female,Secondary,Coast,14825,0,1,1
+24,Female,Primary,Rift Valley,20724,0,0,0
+21,Male,Secondary,Coast,24731,1,0,0
+23,Male,Secondary,Central,18905,0,1,0
+21,Female,Secondary,Western,15072,0,1,0
+23,Male,Secondary,Coast,5817,0,1,1
+22,Female,Secondary,Nairobi,7544,1,0,1
+26,Male,Secondary,Nairobi,12863,0,1,0
+16,Male,Secondary,Coast,10733,0,0,1
+15,Female,Secondary,Coast,13691,0,0,0
+30,Male,Secondary,Coast,15397,0,0,1
+19,Female,Primary,Nairobi,18708,0,0,1
+17,Male,Secondary,Nairobi,14507,0,0,0
+26,Male,Secondary,Coast,18406,1,0,0
+22,Male,Secondary,Rift Valley,15451,0,0,0
+17,Female,Secondary,Rift Valley,1172,1,0,1
+15,Male,Tertiary,Central,8425,1,0,0
+17,Male,Tertiary,Western,13991,0,0,0
+19,Male,Secondary,Rift Valley,6532,0,0,1
+29,Male,Primary,Nairobi,19200,0,0,0
+28,Female,Secondary,Rift Valley,25715,0,0,0
+17,Female,Primary,Central,23531,0,0,0
+15,Male,Secondary,Central,13506,1,1,0
+19,Female,Tertiary,Western,25435,1,0,0
+28,Male,Primary,Rift Valley,16041,0,0,0
+21,Male,Primary,Nairobi,12640,0,0,0
+23,Male,Primary,Nairobi,10706,1,0,0
+29,Female,Secondary,Coast,12883,1,1,1
+29,Female,Secondary,Nairobi,12283,1,0,0
+24,Female,Primary,Western,16193,0,0,0
+27,Female,Tertiary,Western,16124,0,0,0
+33,Female,Secondary,Nairobi,15021,0,0,0
+21,Female,Primary,Nairobi,18059,0,0,0
+31,Female,Secondary,Coast,23335,0,0,0
+34,Female,Secondary,Nairobi,21647,0,0,0
+18,Female,Secondary,Coast,4606,0,0,1
+19,Male,Primary,Coast,0,0,0,0
+21,Female,Primary,Nairobi,21540,0,1,0
+27,Female,Primary,Central,5432,0,1,0
+29,Female,Tertiary,Central,13427,0,0,1
+25,Female,Tertiary,Coast,6809,0,0,0
+18,Female,Primary,Nairobi,2386,0,0,1
+27,Female,Primary,Central,18790,1,0,0
+21,Female,Primary,Nairobi,20314,0,0,1
+33,Female,Primary,Nairobi,10964,0,1,0
+16,Female,Tertiary,Nairobi,0,0,1,0
+24,Female,Secondary,Rift Valley,11176,1,0,1
+27,Female,Secondary,Nairobi,17743,0,0,0
+20,Male,Primary,Rift Valley,4648,0,0,1
+26,Male,Secondary,Coast,16284,0,0,0
+26,Female,Secondary,Central,14893,0,0,0
+34,Female,Secondary,Central,19055,0,0,1
+25,Male,Primary,Central,15837,0,0,0
+21,Female,Secondary,Central,8189,1,0,1
+15,Male,Secondary,Central,23376,0,0,0
+15,Male,Primary,Central,13890,1,1,0
+34,Male,Secondary,Central,14809,1,0,0
+27,Male,Tertiary,Coast,8467,0,0,1
+23,Male,Tertiary,Nairobi,11897,1,0,0
+17,Female,Secondary,Western,8806,0,0,1
+21,Male,Secondary,Rift Valley,13789,0,0,0
+20,Female,Tertiary,Western,26982,0,0,0
+22,Female,Secondary,Western,5397,0,1,0
+23,Male,Primary,Nairobi,3705,0,0,1
+19,Male,Tertiary,Nairobi,25298,0,1,0
+15,Female,Primary,Nairobi,13535,0,0,0
+33,Male,Secondary,Central,10316,0,0,0
+24,Male,Primary,Coast,22279,0,0,0
+26,Female,Primary,Central,10761,0,0,0
+29,Female,Secondary,Coast,27782,0,0,0
+23,Male,Secondary,Coast,19745,0,0,0
+34,Female,Primary,Western,11585,1,0,1
+31,Male,Primary,Western,30101,0,1,0
+31,Male,Primary,Coast,10760,1,1,1
+34,Male,Secondary,Coast,20195,0,1,1
+26,Female,Tertiary,Central,17095,0,0,0
+21,Female,Secondary,Central,24112,0,0,1
+16,Female,Secondary,Western,25931,0,0,0
+17,Female,Tertiary,Nairobi,15224,0,0,1
+31,Female,Secondary,Coast,9726,1,0,1
+19,Male,Primary,Central,18220,0,0,0
+31,Male,Primary,Western,10256,1,0,0
+31,Male,Secondary,Central,29094,1,0,0
+31,Male,Secondary,Coast,15956,1,1,0
+16,Female,Secondary,Coast,12443,1,0,0
+16,Male,Secondary,Rift Valley,16293,0,0,0
+19,Female,Secondary,Nairobi,5570,0,0,1
+15,Male,Secondary,Rift Valley,8199,0,1,0
+15,Female,Secondary,Western,23403,0,0,0
+33,Female,Secondary,Central,10402,0,0,1
+16,Male,Tertiary,Western,7672,1,1,0
+26,Male,Secondary,Coast,18757,0,1,0
+20,Male,Primary,Rift Valley,23300,0,0,0
+18,Male,Secondary,Rift Valley,20033,0,0,0
+25,Female,Secondary,Rift Valley,21972,0,0,0
+31,Male,Secondary,Western,9702,0,0,1
+20,Male,Secondary,Coast,5047,1,0,0
+19,Female,Secondary,Central,25509,0,1,0
+34,Male,Secondary,Central,12741,0,0,1
+16,Male,Primary,Western,13244,0,0,0
+20,Male,Secondary,Rift Valley,24297,0,0,0
+25,Male,Primary,Nairobi,18894,0,0,0
+30,Male,Secondary,Western,18191,0,0,0
+30,Female,Primary,Western,30155,0,0,0
+15,Male,Tertiary,Coast,10495,0,0,0
+23,Male,Secondary,Central,21495,0,0,0
+20,Male,Tertiary,Western,15399,0,0,0
+30,Male,Tertiary,Western,16880,0,0,0
+17,Male,Tertiary,Rift Valley,25699,0,1,0
+34,Female,Tertiary,Rift Valley,18555,0,0,0
+18,Male,Secondary,Nairobi,18768,1,0,0
+33,Female,Secondary,Coast,22508,0,0,0
+17,Female,Primary,Nairobi,12445,0,0,1
+33,Male,Primary,Rift Valley,9126,0,0,1
+34,Male,Secondary,Central,7686,0,0,1
+21,Male,Secondary,Rift Valley,1236,0,1,1
+34,Male,Secondary,Coast,29393,0,0,0
+23,Female,Secondary,Rift Valley,7278,1,0,1
+15,Male,Tertiary,Coast,13451,0,0,0
+22,Male,Secondary,Coast,13062,0,1,0
+21,Male,Secondary,Coast,17152,0,0,0
+32,Male,Tertiary,Coast,20710,0,0,0
+22,Male,Tertiary,Coast,21023,0,0,0
+15,Male,Secondary,Central,10918,0,0,1
+25,Female,Tertiary,Nairobi,13830,1,1,0
+32,Female,Tertiary,Western,16978,0,0,0
+24,Male,Tertiary,Nairobi,13259,0,0,0
+17,Male,Primary,Coast,26251,1,1,1
+21,Male,Secondary,Central,18437,0,1,0
+30,Female,Secondary,Rift Valley,20144,1,1,0
+30,Male,Primary,Central,19640,0,0,0
+34,Female,Secondary,Coast,23214,1,0,1
+31,Male,Secondary,Central,16267,0,0,0
+16,Male,Tertiary,Central,5922,1,0,1
+15,Male,Primary,Coast,17798,1,0,0
+30,Male,Tertiary,Central,10441,0,0,0
+26,Female,Secondary,Western,11300,1,0,0
+19,Female,Secondary,Western,19105,0,0,0
+19,Male,Tertiary,Central,23668,0,0,0
+23,Male,Secondary,Rift Valley,15149,0,0,1
+23,Female,Secondary,Coast,17162,0,1,1
+17,Female,Tertiary,Western,26916,0,0,0
+33,Female,Secondary,Rift Valley,16685,0,0,0
+30,Female,Primary,Central,33212,0,0,0
+30,Male,Tertiary,Rift Valley,18959,1,0,1
+17,Female,Secondary,Nairobi,2675,1,0,0
+34,Male,Secondary,Western,20273,0,0,1
+15,Female,Secondary,Central,17668,0,0,1
+34,Female,Tertiary,Coast,24028,0,0,0
+25,Female,Primary,Central,19712,0,0,0
+31,Female,Tertiary,Coast,14031,0,0,1
+22,Female,Secondary,Central,6430,0,1,1
+18,Male,Primary,Rift Valley,13537,0,1,1
+20,Male,Secondary,Rift Valley,9046,1,0,1
+22,Female,Tertiary,Rift Valley,10936,0,0,0
+34,Female,Secondary,Nairobi,19120,0,0,1
+17,Male,Primary,Coast,26689,0,1,0
+30,Female,Secondary,Rift Valley,17763,0,0,0
+17,Female,Secondary,Nairobi,6629,0,0,1
+32,Male,Secondary,Coast,18112,0,1,0
+28,Female,Secondary,Central,23376,0,0,1
+32,Female,Secondary,Nairobi,10732,0,1,1
+16,Male,Primary,Western,14062,1,0,0
+17,Male,Secondary,Nairobi,15103,1,0,0
+30,Male,Secondary,Nairobi,9506,0,0,1
+23,Female,Primary,Coast,19538,0,1,0
+18,Male,Tertiary,Central,14153,0,1,1
+15,Male,Secondary,Western,17937,0,0,0
+18,Male,Secondary,Rift Valley,8788,0,0,1
+15,Male,Tertiary,Rift Valley,11938,0,0,1
+28,Male,Secondary,Nairobi,20057,0,1,0
+30,Male,Tertiary,Coast,12390,0,0,0
+34,Female,Secondary,Coast,27089,0,0,0
+22,Female,Primary,Rift Valley,12203,1,0,0
+21,Male,Secondary,Western,16573,1,0,0
+17,Male,Secondary,Central,21528,1,0,0
+31,Male,Secondary,Western,5071,0,0,0
+15,Female,Primary,Central,2674,1,0,0
+30,Female,Primary,Rift Valley,4320,0,1,0
+26,Female,Primary,Central,23838,1,0,0
+33,Female,Primary,Coast,11137,0,0,1
+28,Female,Secondary,Nairobi,32907,1,1,0
+20,Female,Primary,Nairobi,11050,0,0,0
+20,Female,Secondary,Rift Valley,16292,1,0,0
+27,Female,Secondary,Coast,25795,1,0,0
+33,Female,Secondary,Western,29043,0,1,0
+22,Male,Tertiary,Coast,29431,0,0,0
+16,Male,Secondary,Nairobi,23459,1,1,0
+15,Male,Secondary,Nairobi,22168,0,0,1
+29,Male,Secondary,Coast,19148,1,0,0
+15,Female,Secondary,Coast,20449,0,0,0
+19,Female,Tertiary,Nairobi,11142,0,1,0
+30,Male,Primary,Western,9273,0,0,1
+33,Female,Primary,Rift Valley,14976,0,1,0
+18,Male,Secondary,Rift Valley,13809,1,0,0
+17,Female,Primary,Coast,11827,0,0,1
+31,Male,Tertiary,Rift Valley,19875,0,0,0
+31,Female,Secondary,Nairobi,21687,0,1,0
+26,Female,Tertiary,Nairobi,15619,0,0,0
+28,Male,Secondary,Coast,25343,1,0,0
+20,Female,Secondary,Coast,7008,1,0,1
+17,Male,Tertiary,Coast,13644,0,1,1
+23,Male,Secondary,Western,9982,1,0,1
+19,Male,Tertiary,Rift Valley,1934,1,0,0
+31,Male,Primary,Coast,14421,0,0,0
+28,Female,Secondary,Central,14148,1,0,1
+17,Female,Primary,Central,25594,0,0,1
+15,Female,Secondary,Nairobi,19416,0,1,0
+34,Male,Primary,Rift Valley,7831,1,1,0
+15,Female,Tertiary,Coast,27979,0,0,0
+17,Male,Tertiary,Central,23547,1,0,0
+32,Female,Tertiary,Rift Valley,19075,1,0,1
+24,Female,Primary,Nairobi,13415,0,0,1
+17,Female,Secondary,Western,8284,1,0,1
+22,Male,Secondary,Rift Valley,12395,0,0,0
+28,Female,Secondary,Rift Valley,22621,0,0,1
+32,Female,Secondary,Western,28192,0,0,0
+29,Male,Secondary,Rift Valley,25803,1,0,0
+16,Female,Secondary,Nairobi,11578,0,0,1
+24,Male,Secondary,Nairobi,7163,0,0,1
+16,Female,Secondary,Western,15986,0,0,0
+31,Male,Primary,Coast,2621,1,0,1
+22,Male,Primary,Central,17262,0,0,0
+15,Female,Primary,Coast,13967,0,0,0
+23,Male,Tertiary,Rift Valley,11738,0,0,0
+25,Male,Primary,Central,3837,0,0,1
+30,Male,Primary,Western,18595,1,0,0
+21,Male,Secondary,Western,11271,0,0,1
+24,Male,Tertiary,Central,6811,0,1,0
+17,Male,Tertiary,Nairobi,0,1,0,1
+32,Female,Secondary,Central,14807,0,0,0
+27,Male,Secondary,Rift Valley,27406,1,0,0
+21,Male,Secondary,Nairobi,26629,0,0,0
+18,Female,Primary,Western,11800,1,0,0
+27,Female,Tertiary,Central,10785,0,0,1
+34,Female,Secondary,Coast,18281,0,0,0
+15,Female,Secondary,Coast,8011,1,0,1
+22,Female,Secondary,Rift Valley,17113,1,0,0
+28,Female,Secondary,Coast,20363,1,0,0
+30,Female,Secondary,Central,23589,0,1,0
+28,Male,Tertiary,Central,14299,1,0,0
+26,Male,Tertiary,Coast,13574,1,0,0
+33,Female,Secondary,Central,8854,0,0,1
+29,Male,Secondary,Rift Valley,9212,1,1,0
+16,Male,Primary,Nairobi,13415,1,0,0
+16,Male,Secondary,Rift Valley,17572,0,0,0
+33,Female,Primary,Rift Valley,21395,0,0,0
+31,Female,Secondary,Central,9378,0,0,1
+34,Male,Tertiary,Nairobi,25449,0,0,0
+24,Female,Secondary,Central,13102,0,0,0
+20,Male,Secondary,Western,14850,0,0,0
+29,Male,Secondary,Central,9770,0,0,1
+25,Male,Primary,Central,0,0,0,0
+19,Male,Secondary,Central,21188,0,0,0
+15,Female,Primary,Nairobi,20158,1,0,0
+22,Female,Primary,Central,13031,1,0,0
+26,Female,Secondary,Nairobi,15469,0,0,0
+26,Male,Secondary,Coast,18612,1,1,1
+19,Female,Secondary,Western,4062,0,0,1
+21,Male,Primary,Nairobi,11297,0,0,1
+18,Female,Secondary,Coast,20560,0,0,0
+20,Male,Secondary,Nairobi,6220,0,1,1
+27,Male,Secondary,Nairobi,17055,1,0,0
+34,Male,Secondary,Western,5504,1,0,0
+29,Female,Secondary,Rift Valley,18265,0,0,0
+17,Female,Secondary,Rift Valley,14751,0,0,0
+22,Female,Secondary,Nairobi,3694,0,0,1
+34,Female,Tertiary,Central,23153,0,0,1
+30,Male,Secondary,Coast,9858,0,0,1
+27,Female,Secondary,Central,9328,0,1,1
+32,Female,Secondary,Central,16404,1,0,0
+24,Male,Secondary,Nairobi,23040,1,0,0
+33,Male,Tertiary,Nairobi,7889,0,0,0
+31,Male,Secondary,Nairobi,15432,1,0,0
+33,Female,Secondary,Nairobi,18002,0,0,0
+19,Male,Secondary,Rift Valley,19852,0,0,0
+23,Male,Secondary,Nairobi,16235,0,0,0
+26,Male,Secondary,Rift Valley,12431,0,1,0
+15,Female,Tertiary,Rift Valley,9207,1,1,0
+15,Male,Secondary,Nairobi,15603,0,0,0
+29,Female,Secondary,Western,7495,0,0,0
+16,Female,Tertiary,Coast,0,0,1,0
+30,Male,Primary,Central,18056,0,0,0
+22,Male,Primary,Rift Valley,21328,1,1,0
+27,Female,Secondary,Coast,0,0,0,1
+15,Male,Tertiary,Western,7932,0,0,0
+30,Male,Primary,Central,19334,0,0,0
+21,Female,Primary,Central,29402,0,0,1
+19,Female,Primary,Rift Valley,15146,0,0,1
+17,Male,Primary,Nairobi,9904,0,0,0
+26,Female,Primary,Western,13720,0,0,0
+30,Male,Secondary,Rift Valley,24624,1,0,1
+33,Male,Secondary,Western,10478,1,0,0
+19,Male,Primary,Nairobi,9406,1,1,1
+28,Female,Secondary,Nairobi,11621,0,0,1
+19,Male,Primary,Rift Valley,8327,0,1,1
+29,Male,Secondary,Nairobi,15859,0,0,0
+31,Male,Secondary,Coast,26373,1,0,0
+28,Female,Secondary,Central,17262,0,1,1
+34,Female,Primary,Rift Valley,13234,0,0,1
+19,Female,Secondary,Western,12957,0,0,0
+26,Female,Primary,Coast,4058,0,0,1
+30,Female,Tertiary,Rift Valley,21182,0,0,0
+30,Male,Secondary,Nairobi,14455,0,0,0
+21,Female,Secondary,Nairobi,13737,1,1,0
+18,Female,Primary,Nairobi,37352,0,0,1
+15,Female,Tertiary,Nairobi,17091,0,0,0
+19,Male,Primary,Western,9737,0,0,1
+24,Female,Primary,Coast,12015,0,0,0
+19,Female,Secondary,Central,23039,0,0,1
+18,Male,Primary,Western,15793,1,0,0
+16,Female,Tertiary,Western,4932,0,0,0
+34,Male,Secondary,Central,21435,1,0,0
+24,Male,Primary,Central,10323,0,0,0
+33,Male,Secondary,Nairobi,28113,0,0,1
+15,Male,Tertiary,Western,22560,1,0,1
+19,Male,Tertiary,Rift Valley,11869,0,0,0
+27,Female,Secondary,Central,23967,0,1,0
+18,Male,Tertiary,Central,15475,0,0,0
+30,Male,Tertiary,Coast,20969,0,0,0
+30,Female,Secondary,Rift Valley,18393,1,0,1
+16,Male,Primary,Rift Valley,9076,0,0,1
+31,Female,Secondary,Central,10495,1,0,1
+34,Female,Tertiary,Nairobi,22210,1,0,0
+26,Female,Primary,Coast,12657,0,0,0
+32,Male,Tertiary,Rift Valley,12174,1,0,0
+17,Male,Primary,Central,8314,0,0,1
+15,Male,Primary,Rift Valley,17965,1,0,0
+15,Female,Secondary,Coast,29438,0,0,0
+33,Male,Primary,Coast,7527,0,0,0
+25,Male,Tertiary,Western,15170,0,1,0
+19,Male,Tertiary,Central,24886,0,1,1
+26,Female,Tertiary,Coast,14443,0,1,0
+17,Female,Secondary,Western,18167,1,1,0
+15,Male,Primary,Western,7563,0,1,1
+15,Male,Secondary,Rift Valley,17998,0,0,0
+22,Male,Secondary,Rift Valley,13690,1,0,0
+24,Male,Secondary,Western,21900,0,0,1
+25,Female,Primary,Rift Valley,23312,1,0,0
+26,Female,Secondary,Coast,33127,1,0,0
+27,Female,Secondary,Nairobi,19057,1,0,0
+26,Female,Tertiary,Coast,17281,1,0,0
+28,Male,Tertiary,Western,16361,0,0,0
+16,Male,Secondary,Western,12528,0,1,1
+33,Male,Secondary,Coast,17369,1,0,1
+32,Female,Secondary,Rift Valley,12932,0,0,0
+17,Male,Primary,Rift Valley,16179,0,0,0
+31,Female,Tertiary,Western,24223,0,0,0
+22,Female,Tertiary,Central,7954,1,1,1
+24,Male,Secondary,Rift Valley,22979,0,0,0
+16,Male,Secondary,Coast,24220,0,0,0
+33,Male,Primary,Rift Valley,14174,0,0,0
+23,Female,Secondary,Coast,147,0,0,0
+21,Male,Primary,Western,10745,0,0,1
+18,Female,Tertiary,Rift Valley,24079,0,0,0
+32,Male,Primary,Coast,14840,0,0,0
+27,Female,Secondary,Western,8005,1,0,1
+25,Female,Tertiary,Central,11467,0,0,1
+18,Male,Secondary,Coast,20884,1,1,0
+18,Female,Primary,Central,18827,1,0,0
+24,Female,Primary,Central,13327,0,1,0
+19,Male,Primary,Nairobi,12432,0,0,0
+23,Female,Secondary,Rift Valley,12258,0,0,0
+17,Male,Primary,Coast,8543,1,0,1
+31,Female,Secondary,Central,26308,0,0,0
+17,Male,Tertiary,Nairobi,12744,0,0,0
+30,Male,Primary,Western,23520,0,0,0
+18,Female,Tertiary,Coast,25649,0,0,0
+32,Female,Tertiary,Central,21988,0,1,0
+31,Female,Primary,Rift Valley,11979,0,0,1
+21,Female,Tertiary,Nairobi,17826,1,0,0
+19,Female,Secondary,Central,14831,0,0,1
+26,Male,Tertiary,Rift Valley,8674,0,0,1
+31,Female,Secondary,Central,17271,0,0,0
+27,Male,Secondary,Coast,6747,1,0,0
+17,Male,Secondary,Coast,23314,0,0,0
+23,Female,Tertiary,Coast,11748,1,0,0
+31,Male,Secondary,Nairobi,16408,0,0,0
+31,Male,Secondary,Coast,16983,0,0,0
+34,Male,Tertiary,Rift Valley,13188,0,1,0
+30,Male,Primary,Central,19107,0,1,0
+27,Female,Primary,Western,11676,0,0,0
+33,Male,Primary,Rift Valley,21099,0,0,0
+31,Female,Secondary,Rift Valley,5578,1,0,1
+18,Female,Primary,Coast,15885,0,0,0
+26,Male,Tertiary,Nairobi,28573,0,0,0
+23,Female,Primary,Central,7998,0,0,1
+33,Female,Secondary,Nairobi,10256,0,0,1
+26,Female,Primary,Central,18597,0,0,1
+23,Male,Tertiary,Central,16257,0,0,0
+21,Female,Tertiary,Nairobi,17454,0,1,0
+28,Female,Secondary,Rift Valley,18424,0,0,0
+34,Female,Tertiary,Central,19443,0,0,0
+33,Male,Primary,Nairobi,22768,0,1,0
+29,Female,Tertiary,Central,17869,0,1,0
+30,Male,Primary,Western,13311,0,0,0
+19,Male,Tertiary,Rift Valley,19708,1,0,0
+17,Male,Primary,Coast,28299,0,0,1
+26,Male,Secondary,Central,14072,0,1,1
+34,Male,Secondary,Western,8178,0,1,1
+18,Male,Primary,Coast,22750,1,0,0
+30,Female,Primary,Coast,14157,1,0,0
+21,Male,Primary,Central,0,0,0,1
+27,Female,Secondary,Nairobi,20932,1,0,1
+24,Female,Secondary,Central,11253,0,0,1
+21,Male,Primary,Western,14366,0,1,0
+28,Female,Secondary,Coast,17324,1,0,1
+19,Female,Primary,Central,16333,1,1,0
+17,Female,Tertiary,Nairobi,19966,0,1,0
+25,Female,Primary,Central,11952,0,0,0
+25,Male,Primary,Rift Valley,18592,0,0,1
+32,Female,Primary,Nairobi,13183,0,0,1
